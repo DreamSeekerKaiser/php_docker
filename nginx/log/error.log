@@ -1,0 +1,8 @@
+2021/04/30 12:20:00 [emerg] 9#9: no port in upstream "php-fpm-upstream" in /etc/nginx/sites-available/default.conf:22
+2021/04/30 12:32:08 [emerg] 9#9: no port in upstream "php-fpm-upstream" in /etc/nginx/sites-available/default.conf:22
+2021/04/30 12:34:06 [emerg] 9#9: no port in upstream "php-fpm-upstream" in /etc/nginx/sites-available/default.conf:22
+2021/04/30 12:35:30 [emerg] 9#9: no port in upstream "php-fpm-upstream" in /etc/nginx/sites-available/default.conf:22
+2021/04/30 12:59:20 [notice] 30#30: signal process started
+2021/04/30 12:59:54 [notice] 35#35: signal process started
+2021/04/30 13:24:01 [emerg] 20#20: unknown directive "//如果后端是fastcgi，比如php-fpm" in /etc/nginx/sites-available/apollo.me.conf:3
+2021/04/30 14:53:47 [emerg] 10#10: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/sites-available/apollo.me.conf:23
